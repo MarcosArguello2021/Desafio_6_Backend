@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Acondicionador",
+    "price": "25",
+    "thumbnail": "https://www.sedal.com.ar/content/dam/unilever/sunsilk/argentina/pack_shot/7791293030661-1966781-png.png",
+    "id": 1
+  },
+  {
+    "title": "Champú",
+    "price": "20",
+    "thumbnail": "https://smoda.elpais.com/wp-content/uploads/2019/11/Champu-Elvive-Aceite-extra-22c99.jpg",
+    "id": 2
+  },
+  {
+    "title": "Jabón",
+    "price": "15",
+    "thumbnail": "https://asset-americas.unileversolutions.com/content/dam/unilever/dove/global/spanish/pack_shot/jabon-en-barra-dove-granada-verbena-7891150043923-fop-90g-1718394-png.png.ulenscale.490x490.png",
+    "id": 3
+  },
+  {
+    "title": "Esponja Baño",
+    "price": "123",
+    "thumbnail": "https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2020/10/22193541/business-insider-esponja-lavar-231020-1280x620.jpg",
+    "id": 4
+  }
+]
